@@ -76,14 +76,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
 </div>
 
-### 📊 GitHub Stats  
-<div align="left">
-  <!-- Full commit stats with icons and all commits -->
-  <img src="https://github-readme-stats.vercel.app/api?username=CellineM&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en" height="150" alt="GitHub stats" />
-  
-  <!-- Top languages, increase langs_count to 10 to show more -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CellineM&langs_count=10&theme=dracula&locale=en" height="150" alt="Top languages" />
-</div>
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=CellineM&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=CellineM&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CellineM&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=CellineM&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
