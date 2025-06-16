@@ -4,7 +4,7 @@
 ###
 
 ### About Me  
-- 🎓 A recently finished (awaiting results) Computer Science student specializing in **Web and Mobile Development** at the **University of London**  
+- 🎓 **Computer Science graduate** (results pending) with a focus on **Web and Mobile Development** from the **University of London**. 
 - 🌱 Currently looking for opportunities in **Web** or **Mobile Development**  
 - 💡 Always eager to **learn new things** and improve my skills
 - ⚡ Fun fact: **I can dance Salsa**
