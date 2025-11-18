@@ -4,10 +4,9 @@
 ###
 
 ### About Me  
-- 🎓 **Computer Science graduate** (results pending) with a focus on **Web and Mobile Development** from the **University of London**. 
+- 🎓 **Computer Science graduate** with a focus on **Web and Mobile Development** from the **University of London**. 
 - 🌱 Currently looking for opportunities in **Web** or **Mobile Development**  
 - 💡 Always eager to **learn new things** and improve my skills
-- ⚡ Fun fact: **I can dance Salsa**
 
 ### Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Celline%20Maccabee-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/celline-maccabee-b63792273/)
