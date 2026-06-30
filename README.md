@@ -5,7 +5,7 @@
 
 ### About Me  
 - 🎓 **Computer Science graduate** with a focus on **Web and Mobile Development** from the **University of London**. 
-- 🌱 Currently looking for opportunities in **Web** or **Mobile Development**  
+- 🌱 Currently looking for opportunities in **IT/Data** and/or **Web/Mobile Development**  
 - 💡 Always eager to **learn new things** and improve my skills
 
 ### Connect with me  
